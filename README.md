@@ -1,4 +1,4 @@
-# 🛡️ Cloud Threat Feed Aggregator
+# 🛡️ Threat Feed Aggregator
 
 A robust, automated DevSecOps utility designed to ingest unstructured network logs, extract valid IPv4 Indicators of Compromise (IoCs) using precision Regular Expressions, and output sanitized data ready for SD-WAN or SASE firewall blocklists.
 
