@@ -1,0 +1,6 @@
+# SECURITY LOG EXPORT - 2026-06-12
+Traffic from 192.168.1.100 was allowed.
+WARNING: Failed SSH login attempt from 203.0.113.45 on port 22.
+The internal database is located at 10.0.5.50.
+Ignore this invalid IP 999.888.1.1.
+Suspicious outbound connection to 198.51.100.99 detected.
